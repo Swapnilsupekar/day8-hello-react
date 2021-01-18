@@ -1,0 +1,12 @@
+.beafutify {
+  font-size: 4rem;
+  background: royalblue;
+  color: white;
+  font-family: cursive;
+
+  /* layout rules*/
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

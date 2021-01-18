@@ -1,26 +1,11 @@
-import Home from "./Home";
-import Page1 from "./Page1";
+import "./App.css";
 
+/**
+ * class => reservered keyword in JS
+ * style
+ */
 function App() {
-  // LOGIC
-  // Javascript
-
-  // WRTIER HTML HERE
-  return (
-    <div>
-      <Home />
-      <Page1 />
-
-      <br />
-      <Page1 />
-
-      <br />
-      <Page1 />
-
-      <br />
-      <Page1 />
-    </div>
-  );
+  return <div className="beafutify">Matrix 4</div>;
 }
 
 export default App;
