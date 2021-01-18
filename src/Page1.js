@@ -1,4 +1,5 @@
 function Page1() {
+  // HTML
   return (
     <div>
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus
